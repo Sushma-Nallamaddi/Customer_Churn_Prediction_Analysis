@@ -34,7 +34,6 @@ This project implements a mini machine learning pipeline to analyze and cluster 
 
 - `MLmini.ipynb` – The main Jupyter notebook containing the code, visualizations, and analysis.
 - `netflix_users.csv` – Dataset used for the project.
-- `kaggle.json` – Your Kaggle API token for future dataset access (Do **NOT** upload this publicly!).
 
 ## 🧰 Requirements
 
@@ -49,10 +48,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 - Optimal cluster count visualization (Elbow Method)
 - Clustered user group breakdowns
 - Key insights into user behavior patterns
-
-## ⚠️ Note
-
-Ensure your `kaggle.json` is stored securely and **never** pushed to public repositories. Add it to `.gitignore`.
 
 ## 👩‍💻 Author
 
