@@ -1,15 +1,15 @@
 
-# 📊 Netflix User Clustering using Machine Learning
+# Netflix User Clustering using Machine Learning
 
 This project implements a mini machine learning pipeline to analyze and cluster Netflix users based on their activity and profile data. It demonstrates how to apply data preprocessing, exploratory data analysis, and unsupervised learning (clustering) to real-world user behavior data.
 
-## 🚀 Project Overview
+## Project Overview
 
 - **Objective:** Identify natural user segments within Netflix user data using K-Means Clustering.
 - **Tech Stack:** Python, Jupyter Notebook, Pandas, Matplotlib, Seaborn, Scikit-learn
 - **Dataset:** Custom or Kaggle-sourced `netflix_users.csv`
 
-## 🧠 Features & Workflow
+## Features & Workflow
 
 1. **Data Loading and Preprocessing**
    - Cleaned and formatted Netflix user data.
@@ -30,12 +30,12 @@ This project implements a mini machine learning pipeline to analyze and cluster 
    - Plotted cluster distributions.
    - Interpreted patterns across clusters.
 
-## 📁 Files
+## Files
 
 - `MLmini.ipynb` – The main Jupyter notebook containing the code, visualizations, and analysis.
 - `netflix_users.csv` – Dataset used for the project.
 
-## 🧰 Requirements
+## Requirements
 
 Install dependencies using pip:
 
@@ -43,7 +43,7 @@ Install dependencies using pip:
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
-## 📈 Sample Output
+## Sample Output
 
 - Optimal cluster count visualization (Elbow Method)
 - Clustered user group breakdowns
