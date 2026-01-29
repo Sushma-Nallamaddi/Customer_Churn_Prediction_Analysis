@@ -49,6 +49,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 - Clustered user group breakdowns
 - Key insights into user behavior patterns
 
-## 👩‍💻 Author
+## Author
 
-**Sushma Reddy** – [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com)
+**Sushma Reddy** – [LinkedIn](https://www.linkedin.com) 
